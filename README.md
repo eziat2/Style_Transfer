@@ -46,6 +46,10 @@ Project_ArbitaryStyleTransfer.ipynb
 ![image](https://user-images.githubusercontent.com/32421212/180916228-f985faae-6a27-46bc-be9d-1f6c0a143cab.png)
 
 
+## Conclusions
+
+
+
 ## References
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 
