@@ -44,10 +44,7 @@ Project_ArbitaryStyleTransfer.ipynb
 ![image](https://user-images.githubusercontent.com/32421212/180916182-b1391b32-50cb-45c5-acba-7493edbc51af.png)
 ![image](https://user-images.githubusercontent.com/32421212/180916212-9f71eb77-c696-4fc8-bc6e-c832abe99218.png)
 ![image](https://user-images.githubusercontent.com/32421212/180916228-f985faae-6a27-46bc-be9d-1f6c0a143cab.png)
-
-
-## Conclusions
-
+![image](https://user-images.githubusercontent.com/32421212/181006643-0a6279a4-9d32-4211-8a9f-05e52e0b46c4.png)
 
 
 ## References
