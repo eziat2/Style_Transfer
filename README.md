@@ -60,3 +60,9 @@ https://arxiv.org/pdf/1703.06868.pdf
 
 https://github.com/xunhuang1995/AdaIN-style
 
+
+https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
+
+https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
+
+https://www.tensorflow.org/tutorials/generative/style_transfer
