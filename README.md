@@ -34,8 +34,8 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## Stylized Images
-
-### Style Transfer using VGG19 - Transfer Learning
+![image](https://user-images.githubusercontent.com/32421212/181109158-78a890b6-fcb5-47e7-943e-d014a211b251.png)
+![image](https://user-images.githubusercontent.com/32421212/181109100-eb1d97e1-cc7e-4a2f-b517-a9dfae8c99c7.png)
 
 ### Arbitary Style Transfer 
 ![image](https://user-images.githubusercontent.com/32421212/180916069-4e9116ca-db7b-4fae-b844-92d8312c99de.png)
@@ -44,6 +44,14 @@ Project_ArbitaryStyleTransfer.ipynb
 ![image](https://user-images.githubusercontent.com/32421212/180916212-9f71eb77-c696-4fc8-bc6e-c832abe99218.png)
 ![image](https://user-images.githubusercontent.com/32421212/180916228-f985faae-6a27-46bc-be9d-1f6c0a143cab.png)
 ![image](https://user-images.githubusercontent.com/32421212/181006643-0a6279a4-9d32-4211-8a9f-05e52e0b46c4.png)
+
+### Style Transfer with Tensorflow lite
+![image](https://user-images.githubusercontent.com/32421212/181101385-915ba603-6bf6-438c-9688-a0fa19cea774.png)
+![image](https://user-images.githubusercontent.com/32421212/181101439-535a8c74-a0df-478e-a951-6c00fb194abf.png)
+
+### Style Transfer using VGG19 - Transfer Learning
+
+
 
 ## Conclusions
 
