@@ -14,7 +14,6 @@ Jupyter Notebooks
 Google Drive
 
 ## How to run
-
 Colab Jupyter Notebook - with GPU and High-RAM
 Open
 Run all Cells
