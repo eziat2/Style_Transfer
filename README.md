@@ -26,6 +26,10 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## Stylized Images
+
+### Style Transfer using VGG19 - Transfer Learning
+
+### Arbitary Style Transfer 
 ![image](https://user-images.githubusercontent.com/32421212/180916069-4e9116ca-db7b-4fae-b844-92d8312c99de.png)
 ![image](https://user-images.githubusercontent.com/32421212/180916152-1eb0c140-ba84-411c-8738-3339c5b641ca.png)
 ![image](https://user-images.githubusercontent.com/32421212/180916182-b1391b32-50cb-45c5-acba-7493edbc51af.png)
@@ -37,5 +41,7 @@ Project_ArbitaryStyleTransfer.ipynb
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 https://towardsdatascience.com/tensorflow-and-vgg19-can-help-you-convert-your-photos-into-beautiful-pop-art-pieces-c1abe87e7e01
 https://www.fritz.ai/style-transfer/#part-uses
-Neural Style Transfer https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
+https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
+https://github.com/xunhuang1995/AdaIN-style
+https://arxiv.org/pdf/1703.06868.pdf
 
