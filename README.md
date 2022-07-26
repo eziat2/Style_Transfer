@@ -12,16 +12,22 @@ Python 3.7
 Tensorflow 2
 Jupyter Notebooks
 Google Drive
+
 ## How to run
-Colab Jupyter Notebook (Notebook on Colab Pro with GPU and High-RAM
+
+Colab Jupyter Notebook - with GPU and High-RAM
 Open
 Run all Cells
+
 ## Contents
 README.md: This file, explaining the project
 Final_project_presentation_v2.pptx: Project presentation in Power Point format
 Project_NeuralStyleTransfer.ipynb
 Project_ArbitaryStyleTransfer.ipynb
+
+
 ## Stylized Images
+![image](https://user-images.githubusercontent.com/32421212/180916069-4e9116ca-db7b-4fae-b844-92d8312c99de.png)
 
 
 ## References
