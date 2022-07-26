@@ -67,17 +67,17 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## References
-Artical/Papers
+### Artical/Papers
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 https://www.fritz.ai/style-transfer/#part-uses
 https://arxiv.org/pdf/1703.06868.pdf
-Code
+### Code
 https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
 https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
 https://www.tensorflow.org/tutorials/generative/style_transfer
 https://towardsdatascience.com/tensorflow-and-vgg19-can-help-you-convert-your-photos-into-beautiful-pop-art-pieces-c1abe87e7e01
 https://github.com/xunhuang1995/AdaIN-style
-Video
+### Video
 https://youtu.be/e718uVAW3KU
 https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
 https://github.com/xunhuang1995/AdaIN-style
