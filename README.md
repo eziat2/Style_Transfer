@@ -10,8 +10,11 @@ Tony Sinn |  University of Toronto SCS3546 (Deep Learning) | Professor: Sina Jam
 
 ## Prerequisites
 Python 3.7
+
 Tensorflow 2
+
 Jupyter Notebooks
+
 Google Drive
 
 ## How to run
@@ -21,8 +24,11 @@ Run all Cells
 
 ## Contents
 README.md: This file, explaining the project
+
 Final_project_presentation_v2.pptx: Project presentation in Power Point format
+
 Project_NeuralStyleTransfer.ipynb
+
 Project_ArbitaryStyleTransfer.ipynb
 
 
