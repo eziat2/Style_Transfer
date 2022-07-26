@@ -60,7 +60,7 @@ Project_ArbitaryStyleTransfer.ipynb
 2. With Arbitrary Style Transfer the stylized images got generated very fast style. Whether the style is Escher, Van Gogh and Monet.
 3.With Tensor flow lite model the model can be load on the device to generate image.
 4.In the future we can try style transfer for video using the Arbitrary Style Transfer
-![image](https://user-images.githubusercontent.com/32421212/181125400-fa82ac6c-ed8f-4070-a260-b248a13672e1.png)
+
 
 ## References
 Articles / Paper
