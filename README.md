@@ -51,26 +51,29 @@ Project_ArbitaryStyleTransfer.ipynb
 
 ### Style Transfer using VGG19 - Transfer Learning
 
+![image](https://user-images.githubusercontent.com/32421212/181125561-03bb533d-6872-49b6-b5b9-90c9ab868d76.png)
+![image](https://user-images.githubusercontent.com/32421212/181125620-e906e654-5e1b-4d1d-96e6-cb74836a34a6.png)
 
 
-## Conclusions
+## Lesson Learned
+1. Neural Style Transfer using VGG19 and Transfer Learning – It takes a lot of time to train the model and get the stylized image but you can have better control on the features you may want to emphasis. (E.g. Texture, contrast or color)
+2. With Arbitrary Style Transfer the stylized images got generated very fast style. Whether the style is Escher, Van Gogh and Monet.
+3.With Tensor flow lite model the model can be load on the device to generate image.
+4.In the future we can try style transfer for video using the Arbitrary Style Transfer
+![image](https://user-images.githubusercontent.com/32421212/181125400-fa82ac6c-ed8f-4070-a260-b248a13672e1.png)
 
 ## References
+Articles / Paper
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
-
-https://towardsdatascience.com/tensorflow-and-vgg19-can-help-you-convert-your-photos-into-beautiful-pop-art-pieces-c1abe87e7e01
-
 https://www.fritz.ai/style-transfer/#part-uses
-
-https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
-
 https://arxiv.org/pdf/1703.06868.pdf
-
-https://github.com/xunhuang1995/AdaIN-style
-
-
-https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
-
+Code
+https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
 https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
-
 https://www.tensorflow.org/tutorials/generative/style_transfer
+https://towardsdatascience.com/tensorflow-and-vgg19-can-help-you-convert-your-photos-into-beautiful-pop-art-pieces-c1abe87e7e01
+https://github.com/xunhuang1995/AdaIN-style
+Video
+https://youtu.be/e718uVAW3KU
+https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
+https://github.com/xunhuang1995/AdaIN-style
