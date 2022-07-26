@@ -56,9 +56,10 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## Lesson Learned
-1. Neural Style Transfer using VGG19 and Transfer Learning – It takes a lot of time to train the model and get the stylized image but you can have better control on the features you may want to emphasis. (E.g. Texture, contrast or color)
 
-2. With Arbitrary Style Transfer the stylized images got generated very fast style. Whether the style is Escher, Van Gogh and Monet.
+1.  Neural Style Transfer using VGG19 and Transfer Learning – It takes a lot of time to train the model and get the stylized image but you can have better control on the features you may want to emphasis. (E.g. Texture, contrast or color)
+
+2.  With Arbitrary Style Transfer the stylized images got generated very fast style. Whether the style is Escher, Van Gogh and Monet.
 
 3.With Tensor flow lite model the model can be load on the device to generate image.
 
@@ -66,7 +67,7 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## References
-Articles / Paper
+Artical/Papers
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 https://www.fritz.ai/style-transfer/#part-uses
 https://arxiv.org/pdf/1703.06868.pdf
