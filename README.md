@@ -46,9 +46,14 @@ Project_ArbitaryStyleTransfer.ipynb
 
 ## References
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
+
 https://towardsdatascience.com/tensorflow-and-vgg19-can-help-you-convert-your-photos-into-beautiful-pop-art-pieces-c1abe87e7e01
+
 https://www.fritz.ai/style-transfer/#part-uses
+
 https://colab.research.google.com/drive/1amO7FjN_qE0KdvSyF_gamrwDYCiCTpTa
+
 https://arxiv.org/pdf/1703.06868.pdf
+
 https://github.com/xunhuang1995/AdaIN-style
 
