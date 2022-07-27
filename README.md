@@ -67,7 +67,7 @@ Project_ArbitaryStyleTransfer.ipynb
 
 
 ## References
-### Artical/Papers
+### Articles/Papers
 https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 https://www.fritz.ai/style-transfer/#part-uses
 https://arxiv.org/pdf/1703.06868.pdf
